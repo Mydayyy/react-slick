@@ -1,5 +1,5 @@
 {
-  "name": "react-slick-patched",
+  "name": "react-slick",
   "version": "0.15.4",
   "description": " React port of slick carousel",
   "main": "./lib",
